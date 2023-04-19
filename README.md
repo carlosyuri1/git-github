@@ -2,7 +2,7 @@
 
 Este é um exemplo.
 
-## como utilizar o projeto
+## Como utilizar o projeto
 
 Para utilizar o projeto, *você precisará ter o Git instalado no seu computador*, em seguida basta clonar o repositório usando o comando:
 
